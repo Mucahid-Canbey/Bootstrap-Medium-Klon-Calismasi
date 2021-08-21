@@ -18,3 +18,6 @@ height: 397px;
 .navtext{
     font-size: 65px;
 }
+.aside-buttons>li {
+    margin-bottom: 10px;
+}
